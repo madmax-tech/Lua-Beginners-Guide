@@ -236,6 +236,7 @@ local i = 0
 local count = 0
 
 while i <= 10 do
+  i=i+1
   count = count + 1
 end
 
